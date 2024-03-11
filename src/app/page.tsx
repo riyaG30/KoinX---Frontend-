@@ -18,7 +18,7 @@ export default function Home() {
     <>
       <TopBar />
      
-      </h1>
+     
       <div className="w-11/12  gap-3 mx-auto  my-6">
         <p className="flex my-6">
           Cryptocurrencies &gt;&gt;{" "}
