@@ -17,11 +17,7 @@ export default function Home() {
   return (
     <>
       <TopBar />
-      <h1 className="text-center text-xl font-bold mt-5">
-        Created by -{" "}
-        <a className="text-blue-600" href="https://t.me/Oahelp4all">
-          Click Here
-        </a>{" "}
+     
       </h1>
       <div className="w-11/12  gap-3 mx-auto  my-6">
         <p className="flex my-6">
